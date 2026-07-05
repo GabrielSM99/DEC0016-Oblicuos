@@ -1,0 +1,7 @@
+# Ignorar o ambiente virtual completo
+venv/
+.streamlit/
+*.mp4
+*.avi
+*.mov
+**/capturas/
