@@ -1,4 +1,4 @@
-# GEMARS - Censo de Pesca Automatizado e Processamento em Lote 
+# Detecção e Contagem de Pesca Automatizado e Processamento em Lote 
 
 ## Introdução
 
